@@ -60,5 +60,5 @@ A Python application demonstrating encryption and decryption using a Caesar Ciph
 
 ## Connect With Me
 
-- GitHub: **TSarna94**
-- LinkedIn: *linkedin.com/in/ajsarna*
+- GitHub: [TSarna94](https://github.com/TSarna94)
+- LinkedIn: [linkedin.com/in/ajsarna](https://www.linkedin.com/in/ajsarna/)
