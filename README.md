@@ -1,6 +1,6 @@
 # Hi, I'm Tony
 
-Aspiring Cybersecurity Professional with experience in Python development, penetration testing, database management, and security-focused projects. I enjoy building practical applications, strengthening technical skills, and expanding my knowledge of cybersecurity and information technology.
+Aspiring Cybersecurity Professional with experience in Python development, penetration testing, database management, and security-focused projects. I enjoy building practical applications, strengthening technical skills, and continuously expanding my knowledge of cybersecurity and information technology.
 
 ## Education
 
@@ -61,4 +61,4 @@ A Python application demonstrating encryption and decryption using a Caesar Ciph
 ## Connect With Me
 
 - GitHub: **TSarna94**
-- LinkedIn: *https://www.linkedin.com/in/ajsarna/*
+- LinkedIn: *linkedin.com/in/ajsarna*
